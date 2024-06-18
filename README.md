@@ -54,10 +54,11 @@ Content Rating,
 Genres,
 Last Updated,
 Current Ver,
-Android Ver,
+Android Ver.
 
 
 googleplaystore_user_reviews Dataset
+
 App,
 Sentiment,
 Sentiment Polarity,
@@ -66,15 +67,18 @@ Translated Review,
 
 # Tools Used in Project
 
-SQL for analyzing the business problem statement.
+• SQL for analyzing the business problem statement.
 
-Power BI for visualization of business problems.
+• Power BI for visualization of business problems.
 
 # Key Insights
 
-These insights are based on a total of 8K apps in the Google Play Store:
-Family and Games are the top categories with the most apps.
-Personalization and Games are the top two categories with the highest ratings.
-Games and Communication emerge as the two leading categories with the highest number of installations.
+• These insights are based on a total of 8K apps in the Google Play Store.
+
+• Family and Games are the top categories with the most apps.
+
+• Personalization and Games are the top two categories with the highest ratings.
+
+• Games and Communication emerge as the two leading categories with the highest number of installations.
 
 

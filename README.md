@@ -10,56 +10,64 @@ Overview of Dataset
 
 • Total unique apps and categories in the dataset.
 
-# Explore App Categories and Counts
+Explore App Categories and Counts
+
 • Retrieve the unique app categories and the count of apps in each category.
 
-# Top-rated Free Apps
+ Top-rated Free Apps
+ 
 • Identify the top-rated free apps.
 
-# Most Reviewed Apps
+ Most Reviewed Apps
+ 
 • Find the apps with the highest number of reviews.
 
-# Average Rating by Category
+ Average Rating by Category
+ 
 • Calculate the average rating for each app category.
 
-# Top Categories by Number of Installs
+ Top Categories by Number of Installs
+ 
 • Identify the app categories with the highest total number of installs.
 
-# Average Sentiment Polarity by App Category
+Average Sentiment Polarity by App Category
+
 • Analyze the average sentiment polarity of user reviews for each app category.
 
-# Sentiment Reviews by App Category
+Sentiment Reviews by App Category
+
 • Provide the distribution of sentiments across different app categories.
 
 # Table and Column Names 
 
 googleplaystore Dataset
 
-App
-Category
-Rating
-Reviews
-Size
-Installs
-Type
-Price
-Content Rating
-Genres
-Last Updated
-Current Ver
-Android Ver
+App, 
+Category,
+Rating,
+Reviews,
+Size,
+Installs,
+Type,
+Price,
+Content Rating,
+Genres,
+Last Updated,
+Current Ver,
+Android Ver,
 
 
 googleplaystore_user_reviews Dataset
-App
-Sentiment
-Sentiment Polarity
-Sentiment Subjectivity
-Translated Review
+App,
+Sentiment,
+Sentiment Polarity,
+Sentiment Subjectivity,
+Translated Review,
 
 # Tools Used in Project
 
 SQL for analyzing the business problem statement.
+
 Power BI for visualization of business problems.
 
 # Key Insights
